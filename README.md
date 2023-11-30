@@ -1,2 +1,2 @@
 # mygithub
-this is my first github
+this is my first git repository
